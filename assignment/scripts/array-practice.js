@@ -105,3 +105,6 @@ console.log( 'tacos' + ' ' + 'and' + ' '  + 'mangos' + ' ' + 'and'  + ' ' + 'sus
 //     Then log the new array.
 //     It should look something like:
 //     ['pizza', 'pasta', 'fish', 'cat', 'bird', 'dog']
+
+letFoodsAndAnimals = favoriteFoods + animalArray
+console.log(letFoodsAndAnimals);
